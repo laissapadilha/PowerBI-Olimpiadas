@@ -22,34 +22,37 @@ Por meio de dashboard no Power BI, buscou-se apresentar informações gerais com
 Primeiramente, foram realizadas consultas no BigQuery para cada uma das tabelas, selecionando todas as colunas e filtrando apenas as edições dos jogos olímpicos de verão. A visualização das consultas foram salvas, para que posteriormente pudessem ser acessadas no Power BI.
 
 **Athlete Bio**
-![image](https://github.com/user-attachments/assets/cb0a04c4-67ea-42bc-9659-ed0751e872c8)
+
+<img src="https://github.com/user-attachments/assets/cb0a04c4-67ea-42bc-9659-ed0751e872c8" alt="image" width="60%">
 
 **Athlete Event Result** 
-![image](https://github.com/user-attachments/assets/4965c03e-3e99-4e97-bf04-78eeac58f97c)
+
+<img src="https://github.com/user-attachments/assets/4965c03e-3e99-4e97-bf04-78eeac58f97c" alt="image" width="50%">
 
 **Game Medal Tally**
-![image](https://github.com/user-attachments/assets/10e083ce-6b5e-4b7f-be43-df77de17f883)
+
+<img src="https://github.com/user-attachments/assets/10e083ce-6b5e-4b7f-be43-df77de17f883" alt="image" width="50%">
 
 **Country**
-![image](https://github.com/user-attachments/assets/ec9add48-dce4-4472-b43c-3a2d5c97a261)
+
+<img src="https://github.com/user-attachments/assets/ec9add48-dce4-4472-b43c-3a2d5c97a261" alt="image" width="50%">
 
 **Result**
-![image](https://github.com/user-attachments/assets/35a096ef-ceab-4318-9c54-d7ca0628b8c1)
+
+<img src="https://github.com/user-attachments/assets/35a096ef-ceab-4318-9c54-d7ca0628b8c1" alt="image" width="50%">
 
 **Game**
-![image](https://github.com/user-attachments/assets/60480757-cb52-413f-b4ee-503b6734d73d)
+
+<img src="https://github.com/user-attachments/assets/60480757-cb52-413f-b4ee-503b6734d73d" alt="image" width="50%">
 
 ## Importação dos Dados no Power BI
 
 As tabelas foram carregadas no PowerBI por meio da opção Obter Dados - Google Big Query. Após selecionar as tabelas para importação e selecionar "Transformar Dados", é exibida a opção de Importar (trazer uma cópia dos dados para o Power BI) ou Direct Query (conexão em tempo real com a fonte de dados). Na presente análise, entende-se que não existe necessidade de conexão em tempo real, então optou-se por apenas importar.
 
-![image](https://github.com/user-attachments/assets/912a6769-9c91-4f7c-bee6-bb6fbde778f1)
+<img src="https://github.com/user-attachments/assets/912a6769-9c91-4f7c-bee6-bb6fbde778f1" alt="image" width="50%">
 
 ## Análise
 
  - **Acesse o Dashboard completo**
 [aqui](https://app.powerbi.com/view?r=eyJrIjoiOTk4ZDhiNjQtNmZiOC00MTEyLWFhMmQtZDczYzAzMjY1MTUxIiwidCI6ImIyOTIxMzJhLWQ2YzgtNGMyMi1hZmM4LWFhNmI5NWIwMzM5MSJ9&pageName=c6ec69d3905c501c6eb9)
 
-## Fatos interessantes que descobri com esse dashboard
-- Olímpiadas não foram disputadas durante a guerra mundial (acho que primeira)
-- Estados Unidos boicotou as olímpiadas de 1980 (Moscow) por razões políticas (presidentes Jimmy Carter)
